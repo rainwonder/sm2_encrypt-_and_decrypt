@@ -3,14 +3,14 @@
 
     SM2 is a cryptographic algorithm based on elliptic curves. It is defined in the following standards of China:
 
-GB/T32918.1-2016,
+    GB/T32918.1-2016,
 
-GB/T32918.2-2016,
+    GB/T32918.2-2016,
 
-GB/T32918.3-2016,
+    GB/T32918.3-2016,
 
-GB/T32918.4-2016,
+    GB/T32918.4-2016,
 
-GM/T 0003-2012.
+    GM/T 0003-2012.
 
     Computing SM2 encryption and decryption are supported in OpenSSL 1.1.1. In the source package, "/crypto/sm2/sm2_crypt.c" is a good example.

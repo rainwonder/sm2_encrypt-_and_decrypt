@@ -14,3 +14,5 @@
     GM/T 0003-2012.
 
     Computing SM2 encryption and decryption are supported in OpenSSL 1.1.1. In the source package, "/crypto/sm2/sm2_crypt.c" is a good example.
+
+creating a new branch is quick
